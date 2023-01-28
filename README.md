@@ -24,6 +24,13 @@ The source of the booklet is contained within the file `booklet.odt` in the Open
 
 The prefixes are available within the `.xlsx` format, I convert them into `.csv` for further analysis. Actually, they are not grouped by, so for each entry `##A — ##Z` there is a row associated. Within the directory `/groupby` you can find the golang code for grouping all the ranges to an human-readable format.
 
+## Work In Progress
+
+* VHF and UHF band plans
+* Digital Modes
+* Physics chapter
+* SOTA
+
 ## Licence
 
 Amateur Radio Booklet © 2023 by Noël Martin F4JJD is licensed under CC BY-SA 4.0
