@@ -1,9 +1,9 @@
 # Welcome to Amateur Radio Booklet's the contributing guide
 
-The booklet is open to contribution and protected by the CC BY-SA 4.0 rules.
-You can propose contribution through Pull Requests.
+The booklet is open to contribution and protected by the CC BY-SA 4.0 license.
+You can propose contributions through Pull Requests.
 
-The purpose of the booklet is to be used globally, when you are in the hurry, in the filed (SOTA, portable, ...), or off-line.
+The purpose of the booklet is to be used globally, when you are operating, in the hurry, outside (SOTA, portable, ...), or off-line.
 
 ## Requirements
 
@@ -14,13 +14,13 @@ The purpose of the booklet is to be used globally, when you are in the hurry, in
 
 If you want to add new content to the booklet, you must validate those rules:
 
-* The content is related to Amateur Radio regulations or technics
+* The content is related to the Amateur Radio regulations or technics
 * The content is available globally, all the IARU regions
 * The content **MUST NOT** promote any commercial company or commercial project
 * The content **MUST** cite its sources
 * The content **MUST** be objective
 
-The content **MUST NOT CONTAIN** remarks or judgment about the operators depending their nationality, region, or the mode they use.
+The content **MUST NOT CONTAIN** remarks or judgment about operators depending on their origins, region, or favorite mode.
 Some **DO NOT** examples:
 > Operators from Somewhere are not able to set properly their emitters
 >
@@ -63,29 +63,29 @@ The heading styles are the following:
 
 ### Body
 
-A _Text Body_ style is defined in the document, it satisfies Inter Regular at 8 pt. It has to be used everywhere.
+A _Text Body_ style is defined in the document (Inter Regular, 8 pt). It has to be used everywhere.
 
 ### Tables
 
 #### General
 
 * Width, 100% of the page or 9 cm
-* Style _Table Header_ for the head of the table
-* Style _Table Content_ for the rest of the table
+* Style _Table Heading_ for the head of the table
 * Style _Table Vertical_ for vertically oriented content
+* Style _Table Content_ for the rest of the table
 
 The table rows must not break across pages and columns.
 
 #### Headers and Sub-Headers
 
-The table header uses the _Table Header_ style and the background _Light Gray 5_.
+The header uses the _Table Heading_ style and the background _Light Gray 5_.
 The header must be repeated among each new page if:
 
 * the table as at least 3 columns,
 * or the table is split on 3 pages or more.
 
 Sub-headers could be used, if the table is split across pages and has numerous entries (see Prefix Allocation).
-A _Table SubHeader_ style is defined, it must be used with a background _Light Gray 5_.
+A _Table SubHeading_ style is defined, it must be used with a background _Light Gray 5_.
 
 #### Borders
 
@@ -101,10 +101,10 @@ However, if the table is intended to organize content with a specific header, bo
 
 ### Citations
 
-If you reuse content with or without modification which is not yours, you must refer to the original one. A style _Quotations_ is defined for long paragraph citations (see Prefix Allocation).
+If you reuse content with or without modification which is not yours, you must refer to them author. A style _Quotations_ is defined for long paragraph citations (see Prefix Allocation).
 
 If you add a new cited content, please update the **Reference** chapter.
-_Not defined yet: Rules to define reference markers within the document._
+_Not defined yet: Rules to define reference markers in the document._
 
 ### Abbreviations
 
