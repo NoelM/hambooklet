@@ -3,6 +3,8 @@
 The booklet consists in a summary of all the needed data when you
 are operating. The booklet covers all the IARU regions :globe_with_meridians:
 
+![Amateur Radio Booklet Cover](assets/cover23.png)
+
 ## Table of Contents
 
 * Band Plans
