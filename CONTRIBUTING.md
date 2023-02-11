@@ -30,11 +30,11 @@ Some **DO NOT** examples:
 
 ### Page
 
-The booklet is intended to be printed, so the content has to fit within the A6 format[^1]. The page margins are the following:
+The booklet is intended to be printed, so the content has to fit within the A5 format[^1]. The page margins are the following:
 
 | Inner | Top | Right | Outer |
 |-------|-----|-------|---------|
-| 1 cm  | 0.5 cm | 0.5 cm | 0.5 cm |
+| 2 cm  | 1.2 cm | 1.2 cm | 1.2 cm |
 
 The page layout is mirrored, so:
 

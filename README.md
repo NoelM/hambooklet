@@ -14,8 +14,13 @@ are operating. The booklet covers all the IARU regions :globe_with_meridians:
 * International Beacon Project
 * Prefixes Allocation
 * Physics
+* Mathematics
 
 ## Organization
+
+### Final Document
+
+The document is a PDF named [`booklet.pdf`](booklet.pdf), the document is intended to be printed on a A5 page format.
 
 ### Booklet Sources
 
@@ -27,9 +32,10 @@ The prefixes are available within the `.xlsx` format from ITU, I converted them 
 
 ## Work In Progress
 
-* VHF and UHF band plans
-* Digital Modes
-* Physics chapter
+* 70 cm band plans
+* Physics, reorganization of the chapter
+* APRS Frequencies
+* AMSAT
 * SOTA
 
 ## License
