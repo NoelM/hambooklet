@@ -7,7 +7,7 @@
 - [ ] 70 cm band plan
 - [ ] ISS frequencies
 - [ ] APRS frequencies
-- [ ] Finish electricity chapter (filters, transistors, Q value of RLC)
+- [x] Finish electricity chapter (filters, transistors, Q value of RLC)
 - [x] Repeat headers in band plans, especially when the band is passing from a page to another
 - [ ] Antennas impedances
 - [x] Morse abbreviations
