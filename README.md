@@ -24,7 +24,7 @@ The document is a PDF named [`booklet.pdf`](booklet.pdf), the document is intend
 
 ### Booklet Sources
 
-The sources of the booklet are contained within the file `booklet.odt` in the OpenDocument format (XML derived); the recommended editor is [LibreOffice](https://www.libreoffice.org/). The document is written entirely with the font [Inter](https://github.com/rsms/inter), under the SIL Open Font License.
+The sources of the booklet are contained within the file `booklet.odt` in the OpenDocument format (XML derived); the recommended editor is [LibreOffice](https://www.libreoffice.org/). The document is written with the font [Inter](https://github.com/rsms/inter), under the SIL Open Font License, and [Latin Modern](https://www.gust.org.pl/projects/e-foundry/latin-modern), under the GUST Font License.
 
 ### Prefixes
 

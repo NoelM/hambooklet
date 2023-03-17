@@ -46,7 +46,7 @@ The page layout is mirrored, so:
 The document uses the following fonts:
 
 * Headings, Tables, Body: [Inter](https://rsms.me/inter/) for readability, accessibility, and internationalization
-* Monospace: [Liberation Mono](https://github.com/liberationfonts)
+* Mathematics: [Latin Modern](https://www.gust.org.pl/projects/e-foundry/latin-modern)
 
 The fonts are available on every operating system without fees.
 
