@@ -30,14 +30,6 @@ The sources of the booklet are contained within the file `booklet.odt` in the Op
 
 The prefixes are available within the `.xlsx` format from ITU, I converted them into `.csv` for further analysis. Actually, they are not grouped by country, so for each entry `##A — ##Z` there is a row associated. Within the directory `/groupby` you can find the Golang code for grouping all the ranges to an human-readable format.
 
-## Work In Progress
-
-* 70 cm band plans
-* Physics, reorganization of the chapter
-* APRS Frequencies
-* AMSAT
-* SOTA
-
 ## License
 
 Amateur Radio Booklet © 2023 by Noël Martin F4JJD is licensed under CC BY-SA 4.0
