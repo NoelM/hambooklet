@@ -8,13 +8,14 @@ are operating. The booklet covers all the IARU regions :globe_with_meridians:
 ## Table of Contents
 
 * Band Plans
+* Classification of Emissions
 * Q Codes
 * Morse Code
+* Radio Abbreviations
 * Digital Modes
-* International Beacon Project
-* Prefixes Allocation
-* Physics
-* Mathematics
+* Radio Waves Physics
+* Prefixes Allocations
+* Amateur Radio Grid Locator
 
 ## Organization
 

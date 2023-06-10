@@ -99,6 +99,10 @@ However, if the table is intended to organize content with a specific header, bo
 * Border Color: Black
 * Padding: 0.1 cm everywhere
 
+### Equations
+
+Beacause the LibreOffice Math is too limited, the equations are made with the help of the [TexMaths](http://roland65.free.fr/texmaths/) extension. It allows us to write equation in the LaTeX format and insert them as SVG within the document.
+
 ### Citations
 
 If you reuse content with or without modification which is not yours, you must refer to them author. A style _Quotations_ is defined for long paragraph citations (see Prefix Allocation).
