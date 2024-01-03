@@ -3,7 +3,7 @@
 The booklet consists in a summary of all the needed data when you
 are operating. The booklet covers all the IARU regions :globe_with_meridians:
 
-Please find here the last release: **[2023 Edition](https://github.com/NoelM/hambooklet/releases/tag/2023)**
+Please find here the last release: **[2023.1 Edition](https://github.com/NoelM/hambooklet/releases/tag/2023.1)**
 
 ![Amateur Radio Booklet Cover](assets/cover24.webp)
 
