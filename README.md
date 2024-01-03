@@ -3,6 +3,8 @@
 The booklet consists in a summary of all the needed data when you
 are operating. The booklet covers all the IARU regions :globe_with_meridians:
 
+Please find here the last release: **[2023 Edition](https://github.com/NoelM/hambooklet/releases/tag/2023)**
+
 ![Amateur Radio Booklet Cover](assets/cover24.webp)
 
 ## Table of Contents
@@ -17,9 +19,9 @@ are operating. The booklet covers all the IARU regions :globe_with_meridians:
 * Prefixes Allocations
 * Amateur Radio Grid Locator
 
-## Organization
+## Repository
 
-### Final Document
+### Printable Document
 
 The document is a PDF named [`booklet.pdf`](booklet.pdf), the document is intended to be printed on a A5 page format.
 
