@@ -5,7 +5,7 @@ are operating. The booklet covers all the IARU regions :globe_with_meridians:
 
 Please find here the latest release: **[2023.1 Edition](https://github.com/NoelM/hambooklet/releases/tag/2023.1)**
 
-![Amateur Radio Booklet Cover](assets/cover24.webp)
+![Amateur Radio Booklet Cover](assets/cover24.png)
 
 ## Table of Contents
 
@@ -31,7 +31,7 @@ The sources of the booklet are contained within the file `booklet.odt` in the Op
 
 ### Prefixes
 
-The prefixes are available within the `.xlsx` format from ITU, I converted them into `.csv` for further analysis. Actually, they are not grouped by country, so for each entry `##A — ##Z` there is a row associated. Within the directory `/groupby` you can find the Golang code for grouping all the ranges to an human-readable format.
+The prefixes are available within the `.xlsx` format from ITU, I converted them into `.csv` for further analysis. Actually, they are not grouped by country, so for each entry `##A — ##Z` there is a row associated. Within the directory `/prefixes` you can find the Golang code for grouping all the ranges to an human-readable format.
 
 ## License
 
