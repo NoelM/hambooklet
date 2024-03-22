@@ -1,9 +1,9 @@
 # HamBooklet
 
-The booklet consists in a summary of all the needed data when you
-are operating. The booklet covers all the IARU regions :globe_with_meridians:
+The booklet consists in a summary of all the needed data when you are operating, and a bit more! 
+By design it covers all the IARU regions :globe_with_meridians:
 
-Please find here the latest release: **[2024 Edition](https://github.com/NoelM/hambooklet/releases/tag/2024)**
+🔖 Please find here the latest release: **[2024.1 Edition](https://github.com/NoelM/hambooklet/releases/tag/2024.1)**
 
 ![Amateur Radio Booklet Cover](assets/cover24.png)
 
